@@ -10,6 +10,9 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Spanish 3', link: '/spanish3' }
     ],
+    search: {
+      provider: 'local'
+    },
     sidebar: [
       {
         text: 'Spanish 3',
