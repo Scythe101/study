@@ -8,7 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Spanish 3', link: '/spanish3' }
+      { text: 'Spanish 3',
+        items: [
+          { text: 'Por vs. Para', link: '/spanish3/porvspara' },
+          { text: 'Demonstrative Adjectives', link: '/spanish3/demonstrativeadjectives' },
+          { text : 'Perfect Tenses', link: '/spanish3/perfecttenses' },
+          { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'}
+        ]
+      }
     ],
     search: {
       provider: 'local'
