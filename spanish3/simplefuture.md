@@ -1,7 +1,10 @@
-# Simple Future
+---
+prev: false
+next: false
+outline: [1,3]
+---
 
-Created: November 18, 2024 1:39 PM
-Courses: Spanish 3 (https://www.notion.so/Spanish-3-d72b66189fd342e986353b5198109371?pvs=21)
+# Simple Future
 
 ## Uses
 
