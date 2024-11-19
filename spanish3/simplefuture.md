@@ -14,7 +14,9 @@ Use like in English, “Will do”
 
 Basically just take the present conjugation of haber, get rid of “h” then add an accent on everything except the nosotros form
 
+
 | é | emos |
+| --- | --- |
 | ás | x |
 | á | án |
 
