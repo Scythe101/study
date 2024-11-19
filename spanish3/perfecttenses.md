@@ -55,3 +55,20 @@ Antes de dormir anoche, yo **había** **hecho** mucho tarea.
 Antes de venir a la clase de español hoy, yo **había** **comido** comida.
 
 (Before I went to Spanish class today, **I had** **eaten** food.)
+
+# Future Perfect Tense
+
+Used to express something that will have been done by a certain time in the future. Future tense of **haber** combined with a past participle
+
+### Conjugation
+
+| habré | habremos |
+| --- | --- |
+| habrás | habráis |
+| habrá | habrán |
+
+### Examples
+
+Para mañana, yo **habré** **tomado** el examen.
+
+(By tomorrow, I **will have taken** the test.)

@@ -13,8 +13,9 @@ export default defineConfig({
           { text: 'Por vs. Para', link: '/spanish3/porvspara' },
           { text: 'Demonstrative Adjectives', link: '/spanish3/demonstrativeadjectives' },
           { text : 'Perfect Tenses', link: '/spanish3/perfecttenses' },
-          { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'}
-        ]
+          { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'},
+          { text : 'Simple Future', link: '/spanish3/simplefuture'}
+        ],
       }
     ],
     search: {
@@ -28,7 +29,8 @@ export default defineConfig({
           { text: 'Por vs. Para', link: '/spanish3/porvspara' },
           { text: 'Demonstrative Adjectives', link: '/spanish3/demonstrativeadjectives' },
           { text : 'Perfect Tenses', link: '/spanish3/perfecttenses' },
-          { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'}
+          { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'},
+          { text : 'Simple Future', link: '/spanish3/simplefuture'}
         ]
       }
     ],
@@ -37,5 +39,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/Scythe101/study' }
     ]
   }
-  
+
 })
