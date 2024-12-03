@@ -7,10 +7,11 @@ outline: [2,3]
 # Por vs Para
 
 ## Por
-
-**Usually looks toward the past**
+::: tip
+Usually looks toward the past
 
 (It’s ***por*** a good **reason**)
+:::
 
 **A**gent
 
@@ -52,13 +53,13 @@ Estuve en España por 6 meses.
 
 ## Para
 
-<aside>
+::: tip
 
 **Usually looks toward the future**
 
 (The ***para***medic shocked him on **purpose**)
 
-</aside>
+:::
 
 **P**urpose, goal, intended use
 
