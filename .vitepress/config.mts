@@ -14,7 +14,8 @@ export default defineConfig({
           { text: 'Demonstrative Adjectives', link: '/spanish3/demonstrativeadjectives' },
           { text : 'Perfect Tenses', link: '/spanish3/perfecttenses' },
           { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'},
-          { text : 'Simple Future', link: '/spanish3/simplefuture'}
+          { text : 'Simple Future', link: '/spanish3/simplefuture'},
+          { text : 'Conditional/Imperfect Subjunctive Tenses', link: '/spanish3/conditional'}
         ],
       }
     ],
@@ -30,7 +31,8 @@ export default defineConfig({
           { text: 'Demonstrative Adjectives', link: '/spanish3/demonstrativeadjectives' },
           { text : 'Perfect Tenses', link: '/spanish3/perfecttenses' },
           { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'},
-          { text : 'Simple Future', link: '/spanish3/simplefuture'}
+          { text : 'Simple Future', link: '/spanish3/simplefuture'},
+          { text : 'Conditional/Imperfect Subjunctive Tenses', link: '/spanish3/conditional'}
         ]
       }
     ],
