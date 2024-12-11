@@ -72,3 +72,28 @@ Used to express something that will have been done by a certain time in the futu
 Para mañana, yo **habré** **tomado** el examen.
 
 (By tomorrow, I **will have taken** the test.)
+
+# Conditional Perfect
+
+Used to express what **could** or **would** have happened, but **didn’t.** It is over and done and there is no going back in time.
+
+Unrealized potential/missed opportunities
+
+| habría | habríamos |
+| --- | --- |
+| habrías | habríais |
+| habría | habrían |
+
+### Examples
+
+Si hubiera tenido tiempo, te habría ayudado.
+
+(If I were to have had time, I would have helped you.)
+
+Si hubiera estado disponible, habría venido a tu fiesta.
+
+(If I had been available, I would have gone to your party.) 
+
+Si hubiera practicado para mi examen oral, habría salido muy bien.
+
+(If I had practiced for my oral exam, it would have gone well.)
