@@ -11,9 +11,11 @@ export default defineConfig({
       { text: 'Spanish 4',
         items: [
           { text: 'Imperfect Subjunctive', link: '/spanish4/imperfectsubjunctive' },
+          { text: 'If Conditionals', link: '/spanish4/conditionals' },
           { text: 'ESCAPA', link: '/spanish4/escapa' },
           { text: 'CAMELoT', link: '/spanish4/camelot' },
           { text: 'HD³', link: '/spanish4/hd3' },
+          { text: 'Lo Que', link: '/spanish4/loque' },
         ]
       },
       { text: 'Spanish 3',
@@ -48,9 +50,11 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Imperfect Subjunctive', link: '/spanish4/imperfectsubjunctive' },
+          { text: 'If Conditionals', link: '/spanish4/conditionals' },
           { text: 'ESCAPA', link: '/spanish4/escapa' },
           { text: 'CAMELoT', link: '/spanish4/camelot' },
           { text: 'HD³', link: '/spanish4/hd3' },
+          { text: 'Lo Que', link: '/spanish4/loque' },
         ]
       }
     ],
