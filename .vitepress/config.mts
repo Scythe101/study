@@ -8,6 +8,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config,
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Spanish 4',
+        items: [
+          { text: 'Imperfect Subjunctive', link: '/spanish4/imperfectsubjunctive' },
+        ]
+      },
       { text: 'Spanish 3',
         items: [
           { text: 'Por vs. Para', link: '/spanish3/porvspara' },
