@@ -3,8 +3,8 @@ prev: false
 next: false
 outline: [1,3]
 ---
-HD³ is an acronym used to remember temporal (time) conjunctions that require the indicative, subjunctive, or infinitive.
 # HD³
+HD³ is an acronym used to remember temporal (time) conjunctions that require the indicative, subjunctive, or infinitive.
 
 - **H**asta (que)
 - **D**espués de (que)
