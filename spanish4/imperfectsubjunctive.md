@@ -16,8 +16,8 @@ Conjugate in the preterite form of ellos/ellas/ustedes, remove the “-aron/-ier
 
 Only -ir verbs have stem changers! Also, double vowel verbs stem change to a y. -cir, -ducir, y traer verbs change to a j
 
-<iframe src="../assets/ISNotes1.pdf#toolbar=0" width="100%" height="600px"></iframe>
-<iframe src="../assets/ISNotes2.pdf#toolbar=0" width="100%" height="600px"></iframe>
+<iframe src="/assets/ISNotes1.pdf#toolbar=0" width="100%" height="600px"></iframe>
+<iframe src="/assets/ISNotes2.pdf#toolbar=0" width="100%" height="600px"></iframe>
 
 # Uses
 
