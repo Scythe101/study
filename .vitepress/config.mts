@@ -11,6 +11,9 @@ export default defineConfig({
       { text: 'Spanish 4',
         items: [
           { text: 'Imperfect Subjunctive', link: '/spanish4/imperfectsubjunctive' },
+          { text: 'ESCAPA', link: '/spanish4/escapa' },
+          { text: 'CAMELoT', link: '/spanish4/camelot' },
+          { text: 'HD³', link: '/spanish4/hd3' },
         ]
       },
       { text: 'Spanish 3',
@@ -30,7 +33,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Spanish 3',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Por vs. Para', link: '/spanish3/porvspara' },
           { text: 'Demonstrative Adjectives', link: '/spanish3/demonstrativeadjectives' },
@@ -38,6 +41,16 @@ export default defineConfig({
           { text : 'Present Subjunctive', link: '/spanish3/presentsubjunctive'},
           { text : 'Simple Future', link: '/spanish3/simplefuture'},
           { text : 'Conditional/Imperfect Subjunctive Tenses', link: '/spanish3/conditional'}
+        ]
+      },
+      {
+        text: 'Spanish 4',
+        collapsed: true,
+        items: [
+          { text: 'Imperfect Subjunctive', link: '/spanish4/imperfectsubjunctive' },
+          { text: 'ESCAPA', link: '/spanish4/escapa' },
+          { text: 'CAMELoT', link: '/spanish4/camelot' },
+          { text: 'HD³', link: '/spanish4/hd3' },
         ]
       }
     ],

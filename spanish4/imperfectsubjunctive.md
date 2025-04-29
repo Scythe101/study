@@ -33,7 +33,7 @@ Esperé que vinieras a mi casa.
 
 Ojalá + IS + palabra clave - to indicates things in the present that have a very low chance of happening (1%)
 
-¡Quién + IS él/ella/usted… (en este momento…)! - Who would(n’t)…!
+¡Quién + IS él/ella/usted… (en este momento…)! - The direct translation is "Who would(n’t)…!" but it's used like Ojalá and translates closer to "If only..."
 
 Presente de indicativo + como si + IS
 
@@ -77,7 +77,7 @@ caerse - cayera, cayéramos
 
 # Practice/Resources
 
-[https://app.formative.com/practice/sets/679d948f5e0741301ce55211](https://app.formative.com/practice/sets/679d948f5e0741301ce55211)
+[Conjugation Flashcards](https://app.formative.com/practice/sets/679d948f5e0741301ce55211)
 
 [Present](https://docs.google.com/presentation/d/1e3STTyE6UVd-An3rxAqVw0eQA2YrTXp6D8I16fo8H4w/edit?usp=sharing)
 
