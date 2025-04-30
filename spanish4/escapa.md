@@ -9,7 +9,7 @@ ESCAPA is an acronym that's used to remember a group of conjunctions that always
 - **S**in (que) - without
 - **C**on tal de (que) - as long as
 - **A**ntes de (que) - before
-- **P**ara (que) - in order to
+- **P**ara (que) - so that
 - **A** menos (que) - unless
 
 With “que”, it’s ALWAYS subjunctive
